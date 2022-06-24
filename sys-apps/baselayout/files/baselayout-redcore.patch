@@ -1,0 +1,17 @@
+diff -Nur a/etc.Linux/os-release b/etc.Linux/os-release
+--- a/etc.Linux/os-release	2017-06-09 19:37:50.000000000 +0100
++++ b/etc.Linux/os-release	2018-01-12 08:35:13.951741903 +0000
+@@ -1,7 +1,7 @@
+-NAME=Gentoo
+-ID=gentoo
+-PRETTY_NAME="Gentoo/Linux"
++NAME=Redcore
++ID=redcore
++PRETTY_NAME="Redcore/Linux"
+ ANSI_COLOR="1;32"
+-HOME_URL="https://www.gentoo.org/"
+-SUPPORT_URL="https://www.gentoo.org/support/"
+-BUG_REPORT_URL="https://bugs.gentoo.org/"
++HOME_URL="https://redcorelinux.org/"
++SUPPORT_URL="https://wiki.redcorelinux.org/"
++BUG_REPORT_URL="https://bugs.redcorelinux.org/"
